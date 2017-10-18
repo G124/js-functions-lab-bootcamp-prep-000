@@ -3,5 +3,11 @@ function happyHolidays () {
 }
 
 function happyHolidaysTo (Gav) {
-  return `Happy holidays, ${name}!`
+  return Happy holidays, '${name}!'
+}
+
+
+function happyHolidayTo (holiday,name) {
+
+  return `${greeting}, ${firstName}!`
 }
